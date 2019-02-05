@@ -1,0 +1,2 @@
+# cledit
+Dumb changelog editor
